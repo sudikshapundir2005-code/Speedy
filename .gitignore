@@ -1,0 +1,9 @@
+# Database credentials (yahan apna password hota hai)
+conn.php
+db.php
+
+# Images folder (agar aap upload nahi karna chahte)
+uploads/
+
+# Optional: agar .git folder ya koi backup ho
+.DS_Store
